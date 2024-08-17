@@ -2,7 +2,8 @@ body{
     margin: 0;
     background-image: url('img/img1.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
     font-family: Tahoma;
 }
 
@@ -25,7 +26,6 @@ body{
     margin: 0;
     font-size: 22px;
     color: #fff;
-    text-align: center;
 }
 
 img{
@@ -35,8 +35,7 @@ img{
 p {
     line-height: 28px;
     font-size: 18px;
-    color: #fff;
-    text-align: justify;
+    
 }
 
 span{
