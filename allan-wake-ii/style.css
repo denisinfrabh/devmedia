@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    background-image: url('img/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Tahoma;
+}
+
+.secao{
+    padding: 10px 20px;
+    width: 600px;
+    margin: 0 auto;
+    color: rgb(201, 201, 201);
+    
+
+}
+
+.secao-topo{
+    background-color: #0078f2;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.secao-topo p{
+    margin: 0;
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+p {
+    line-height: 28px;
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
+
+.box-compra{
+    margin: 0px auto;
+    border: 1px solid #fff;
+    text-align: center;
+    width: 350px;
+    padding:0 20px 20px;
+}
+
+a { /*botao-compre-agora*/
+    background-color: red;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 8px;
+}
